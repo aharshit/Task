@@ -1,3 +1,4 @@
+```
 Setup Instructions
 Follow these steps to set up your environment with Python, MahaUtils, Node.js, and Express.
 
